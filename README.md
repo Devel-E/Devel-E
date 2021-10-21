@@ -5,12 +5,12 @@ Hello, I am a highschool student interested in systems programming, cryptography
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=develijah&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 ````
-  8 8          ,o.                                        ,o.          8 8
- d8o8azzzzzzzzd   b                                      d   bzzzzzzzza8o8b
-               `o'                                        `o'
+  8 8          ,o.                                                                            ,o.          8 8
+ d8o8azzzzzzzzd   b                                                                          d   bzzzzzzzza8o8b
+               `o'                                                                            `o'
 
-                      8 8 8 8                     ,ooo.
-                      8a8 8a8                    oP   ?b
-                     d888a888zzzzzzzzzzzzzzzzzzzz8     8b
-                      `""^""'                    ?o___oP'
+                                           8 8 8 8                     ,ooo.
+                                           8a8 8a8                    oP   ?b
+                                          d888a888zzzzzzzzzzzzzzzzzzzz8     8b
+                                           `""^""'                    ?o___oP'
                       
