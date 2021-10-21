@@ -1,4 +1,5 @@
-Hello, I am a highschool student interested in systems programming, cryptography, and datascience. The primary languages I use are C and Python, but I'm learning Rust as well with the help of the languages excellent community. I gained most of my experience through a local college and I plan to take an internship in a related feild this summer. Thank you for reading and please consider checking out my website (https://Devel-E.github.io).
+Hello, I am a highschool student interested in systems programming, cryptography, and datascience. 
+The primary languages I use are C and Python, but I'm learning Rust as well with the help of the languages excellent community. I gained most of my experience through a local college and I plan to take an internship in a related field this summer. Thank you for reading and please consider checking out my website (https://Devel-E.github.io).
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=develijah&show_icons=true&theme=midnight-purple)
 
