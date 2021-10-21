@@ -1,4 +1,4 @@
-The one and only!                          
+The one and only                         
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=develijah&show_icons=true&theme=midnight-purple)
 
