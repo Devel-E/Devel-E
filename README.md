@@ -8,4 +8,5 @@ I have about 3 years of experience with GNU/Linux, my favorite distro being Arch
   out my website (https://Devel-E.github.io/Portfolio). <br>
 </p>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devel-E&show_icons=true&theme=midnight-purple)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devel-E&layout=compact&theme=midnight-purple)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devel-E&show_icons=true&theme=midnight-purple)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devel-E&layout=compact&theme=midnight-purple)
