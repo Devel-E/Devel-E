@@ -1,12 +1,19 @@
-<h1> The One and Only </h1>
-<p>
-  Hello, my name is Elijah. I am a highschool student interested in web development, cryptography, and datascience. <br>
-The primary language I use is Python, but I'm learning Rust as well with the help of the languages excellent community. <br>
-I have about 3 years of experience with GNU/Linux, my favorite distro being Arch. I gained most of my experience through <br>
-  a local college and I plan to take an internship in a related field this summer. If you're new to linux or looking for <br>
-  someone to work on an open source with you, I'm always willing to help! Thank you for reading and please consider checking <br>
-  out my website (https://Devel-E.github.io/Portfolio). <br>
-</p>
+# Hello, I'm Elijah - aka Devel
+
+## I'm a High-school Student and Front-End Developer.
+- I'm currently working on my A.S in Computer Science
+- I'm learning cloud computing while working towards a AWS cloud programer certification
+- I'm hoping to improve both my front and back end development skills
+- Learning Daily
+- <a href="https://github.io/Devel-E/Portfolio"> My Portfolio
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devel-E&show_icons=true&theme=midnight-purple)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devel-E&layout=compact&theme=midnight-purple)
+# My Tools:
+![image](https://user-images.githubusercontent.com/89178899/141670352-4b8d2962-5eca-40ca-8374-9cdf4840eb74.png)
+![image](https://user-images.githubusercontent.com/89178899/141670315-be7b551a-caae-4ded-8db8-5c7dfc429025.png)
+![image](https://user-images.githubusercontent.com/89178899/141670327-8cee528c-d74b-431a-add5-fe290f884961.png)
+![image](https://user-images.githubusercontent.com/89178899/141670400-983adea3-90d9-4825-bdda-f0dbb7fe0eeb.png)
+![image](https://user-images.githubusercontent.com/89178899/141670298-2c95b355-a00f-4aaa-8ecc-3eb2394bf2bb.png)
+![image](https://user-images.githubusercontent.com/89178899/141670309-f9e32182-0461-4ac7-b53e-3e3cf91b592e.png)
+![image](https://user-images.githubusercontent.com/89178899/141670369-c9821dfe-17c2-4a72-af9b-32f7b3912288.png)
+#
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Devel-E&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
