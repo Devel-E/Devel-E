@@ -5,7 +5,7 @@
 - I'm learning cloud computing while working towards a AWS cloud programer certification
 - I'm hoping to improve both my front and back end development skills
 - Learning Daily
-- <a href="https://github.io/Devel-E/Portfolio"> My Portfolio
+- <a href="https://Devel-E.github.io/Portfolio"> My Portfolio
   
 # My Tools:
 ![image](https://user-images.githubusercontent.com/89178899/141670352-4b8d2962-5eca-40ca-8374-9cdf4840eb74.png)
