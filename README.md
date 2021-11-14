@@ -8,7 +8,6 @@
 - <a href="https://Devel-E.github.io/Portfolio"> My Portfolio
   
 # My Tools:
-![image](https://user-images.githubusercontent.com/89178899/141670352-4b8d2962-5eca-40ca-8374-9cdf4840eb74.png)
 ![image](https://user-images.githubusercontent.com/89178899/141670315-be7b551a-caae-4ded-8db8-5c7dfc429025.png)
 ![image](https://user-images.githubusercontent.com/89178899/141670327-8cee528c-d74b-431a-add5-fe290f884961.png)
 ![image](https://user-images.githubusercontent.com/89178899/141670400-983adea3-90d9-4825-bdda-f0dbb7fe0eeb.png)
