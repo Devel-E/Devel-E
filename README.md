@@ -1,11 +1,9 @@
-# Hello, I'm Elijah - aka Devel
-
-## I'm a High-school Student and Front-End Developer.
+# Hello, I'm Elijah or Devel
 - I'm currently working on my A.S in Computer Science
-- I'm learning cloud computing while working towards an AWS cloud programer certification
-- I'm hoping to improve both my front and back end development skills
-- Learning Daily
-- Love low level programming too!
+- I'm studying for the AWS cloud programer certification exam
+- Enjoy low level programming
+- Intrested in cryptography
+- Always learning
 - <a href="https://Devel-E.github.io/Portfolio"> My Portfolio
 #
 # My Tools:
