@@ -5,6 +5,7 @@
 - I'm learning cloud computing while working towards an AWS cloud programer certification
 - I'm hoping to improve both my front and back end development skills
 - Learning Daily
+- Love low level programming too!
 - <a href="https://Devel-E.github.io/Portfolio"> My Portfolio
 #
 # My Tools:
