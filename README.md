@@ -2,7 +2,7 @@
 
 ## I'm a High-school Student and Front-End Developer.
 - I'm currently working on my A.S in Computer Science
-- I'm learning cloud computing while working towards a AWS cloud programer certification
+- I'm learning cloud computing while working towards an AWS cloud programer certification
 - I'm hoping to improve both my front and back end development skills
 - Learning Daily
 - <a href="https://Devel-E.github.io/Portfolio"> My Portfolio
