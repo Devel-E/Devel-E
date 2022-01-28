@@ -1,4 +1,4 @@
-# Hello, I'm Winter (aka Devel)
+# Hello, I'm Elijah (aka Devel)
 - I'm currently working on my A.S in Computer Science
 - I'm studying for the AWS cloud programer certification exam
 - Enjoy low level programming
