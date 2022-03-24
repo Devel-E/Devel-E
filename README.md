@@ -1,9 +1,9 @@
-# Hello, I'm Elijah (aka Devel)
-- I'm currently working on my A.S in Computer Science
-- I'm studying for the AWS cloud programer certification exam
-- Enjoy low level programming
-- Intrested in cryptography
-- Always learning
+# Hello, I'm Elijah!
+- Appreciator of Abstract Algebra
+- Fan of Algorithms
+- Student of the Profound
+- Enjoyer of the Absurd
+
 - <a href="https://Devel-E.github.io/Portfolio"> My Portfolio
 #
 # My Tools:
