@@ -3,8 +3,6 @@
 - Fan of Algorithms
 - Student of the Profound
 - Enjoyer of the Absurd
-
-- <a href="https://Devel-E.github.io/Portfolio"> My Portfolio
 #
 # My Tools:
 ![image](https://user-images.githubusercontent.com/89178899/141670315-be7b551a-caae-4ded-8db8-5c7dfc429025.png)
