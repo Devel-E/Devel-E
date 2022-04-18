@@ -1,9 +1,5 @@
 # Hello, I'm devel!
-- Appreciator of Abstract Algebra
-- Fan of Algorithms
-- Student of the Profound
-- Enjoyer of the Absurd
-#
+
 # My Tools:
 ![image](https://user-images.githubusercontent.com/89178899/141670315-be7b551a-caae-4ded-8db8-5c7dfc429025.png)
 ![image](https://user-images.githubusercontent.com/89178899/141670327-8cee528c-d74b-431a-add5-fe290f884961.png)
